@@ -37,7 +37,7 @@ const Header = () => {
           <span>Projects</span>
         </Link>
         <a
-          href="https://drive.google.com/file/d/1NQO0LYeGulz8gjGBm9UCSuN5OZackiOQ/view?usp=sharing"
+          href="https://drive.google.com/file/d/1DN5Gf7aQfWxekYYgP16xrxPKjhmlmchM/view?usp=sharing"
           target="_blank"
           className={`nav-item resume ${
             location.pathname === "/resume" ? "active" : ""
